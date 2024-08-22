@@ -15,7 +15,7 @@
 
 ## Preparação do Jogo
 - **Jogadores:** 4 jogadores, divididos em 2 duplas.
-- **Baralho:** O baralho contém 40 cartas numéricas (de 1 a 10) e 8 cartas especiais.
+- **Baralho:** O baralho contém 40 cartas numéricas (de 1 a 10) e 4 cartas especiais diferentes com 4 unidades de cada no baralho.
   - **Cartas Numéricas:** 
     - **Cores:** Amarelo, Vermelho, Verde, Azul.
     - **Valores:** De 1 a 10.
@@ -26,7 +26,7 @@
 ## Objetivo do Jogo
 - **Vencer Rodadas:** Jogue a carta de maior valor ou use cartas especiais para ganhar a rodada.
 - **Acumular Pontos:** A dupla que vencer a rodada ganha pontos.
-- **Vencer a Partida:** A primeira dupla a alcançar 10 pontos vence.
+- **Vencer a Partida:** A primeira dupla a alcançar 12 pontos vence.
 
 ---
 
@@ -40,12 +40,13 @@ Em caso de empate no valor das cartas, a cor desempata seguindo a hierarquia aba
 ---
 
 ## Mecânica das Rodadas
-- **Distribuição de Cartas:** Cada jogador recebe 5 cartas no início da rodada.
+- **Distribuição de Cartas:** Cada jogador recebe 3 cartas no início da rodada.
+- - **Definição de coringa:** A primeira carta do baralho é virada, e a carta com o número acima a ela (ou no caso do 10, será o 1) será o coringa (a carta mais poderosa)
 - **Ordem de Jogada:** O jogador à esquerda do distribuidor começa a rodada. O jogo segue no sentido horário.
 - **Jogada de Cartas:**
   - **Cartas Numéricas:** Os jogadores jogam uma carta numérica por vez. A carta com o maior valor vence a rodada. Em caso de empate no valor, a cor da carta determina o vencedor.
   - **Cartas Especiais:** Podem ser jogadas a qualquer momento para alterar a dinâmica da rodada.
-- **Final da Rodada:** A rodada termina quando todos os jogadores tiverem jogado uma carta. A carta com maior valor (ou a mais forte em caso de empate) vence a rodada.
+- **Final da Rodada:** A rodada termina quando todos os jogadores tiverem jogado uma carta. A carta com maior valor (ou a mais forte em caso de empate) vence a batalha. A dupla que ganhar mais batalhas leva a rodada.
 
 ---
 
@@ -61,7 +62,7 @@ Em caso de empate no valor das cartas, a cor desempata seguindo a hierarquia aba
 - **Desafio Truco!:**
   - **Início:** Qualquer jogador pode jogar a carta "Truco!" em sua vez.
   - **Resposta:** A dupla desafiada pode:
-    - **Aceitar:** O valor da rodada é dobrado.
+    - **Aceitar:** O valor da rodada é triplicado.
     - **Aumentar:** A dupla pode aumentar para "Seis", "Nove", ou "Doze" pontos, dobrando o valor novamente.
     - **Recusar:** Se recusar, a dupla desafiante vence a rodada e ganha os pontos.
   - **Encerramento:** Após a resposta ao desafio, o jogador da dupla desafiada joga uma carta.
