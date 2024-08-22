@@ -1,4 +1,4 @@
-# Truco Uno - Manual de Regras
+# ZEBA! - Manual de Regras
 
 ## Visão Geral
 **Truco Uno** é um jogo de cartas 2D jogado em duplas, que combina elementos dos jogos Truco e Uno. Jogadores competem para vencer rodadas acumulando pontos ao jogar cartas com valores e cores estratégicos. Em caso de empate no valor das cartas, a cor mais forte desempata. A primeira dupla a alcançar a pontuação alvo vence a partida.
