@@ -54,13 +54,13 @@ Em caso de empate no valor das cartas, a cor desempata seguindo a hierarquia aba
 - **Reverter:** Inverte a ordem do jogo (de horário para anti-horário, e vice-versa).
 - **Pular:** O próximo jogador perde sua vez.
 - **Mais 3:** O próximo jogador compra três cartas do baralho e perde a vez.
-- **Truco!:** Desafia a outra dupla a aceitar um truco. Se a dupla aceitar, o valor da rodada é dobrado. Se recusar, a dupla desafiante vence a rodada automaticamente.
+- **ZEBA!:** Desafia a outra dupla a aceitar o ZEBA. Se a dupla aceitar, o valor da rodada é dobrado. Se recusar, a dupla desafiante vence a rodada automaticamente.
 
 ---
 
 ## Dinâmica do Truco!
 - **Desafio Truco!:**
-  - **Início:** Qualquer jogador pode jogar a carta "Truco!" em sua vez.
+  - **Início:** Qualquer jogador pode jogar a carta "ZEBA!" em sua vez.
   - **Resposta:** A dupla desafiada pode:
     - **Aceitar:** O valor da rodada é triplicado.
     - **Aumentar:** A dupla pode aumentar para "Seis", "Nove", ou "Doze" pontos, dobrando o valor novamente.
@@ -71,8 +71,8 @@ Em caso de empate no valor das cartas, a cor desempata seguindo a hierarquia aba
 
 ## Pontuação
 - **Rodada Normal:** 1 ponto para a dupla vencedora.
-- **Rodada com Truco!:** Pontuação dobrada:
-  - **Truco! Aceito:** 3 pontos.
+- **Rodada com ZEBA!:** Pontuação dobrada:
+  - **ZEBA! Aceito:** 3 pontos.
   - **Seis:** 6 pontos.
   - **Nove:** 9 pontos.
   - **Doze:** 12 pontos.
